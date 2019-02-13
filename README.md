@@ -25,7 +25,7 @@ NuCamp Spokane starting the 26th and running for 6 months
 **Tools:** Lucidchart
 
 ### Business and Accounting
-##Sources:## 
+**Sources:**
 The Personal MBA (https://personalmba.com/) 
 Entire MBA in 1 Course (https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/)
 
