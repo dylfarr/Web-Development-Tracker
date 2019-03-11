@@ -27,6 +27,7 @@ NuCamp Spokane starting the 26th and running for 6 months
 | React-Redux  | Flux State Management architecture | https://react-redux.js.org/  | %10 |
 | Thunk  | Action modification and ASYNC for Flux | https://github.com/reduxjs/redux-thunk  | %10 |
 | JSDoc  | JS project documentation | http://usejsdoc.org/  | %0 |
+| MongoDB  | No SQL Database | https://www.mongodb.com/  | %0 |
 
 ### Supporting Skills ###
 | Subject  | Purpose | URL  | Proficiency % |
