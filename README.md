@@ -19,17 +19,7 @@ NuCamp Spokane starting the 26th and running for 6 months
 ## **FreeCodeCamp Progress**
 
 
-## **Additional Skill Checklist**
-### UML and software diagramming
-**Source:** https://www.tutorialspoint.com/uml/
-**Tools:** Lucidchart
-
-### Business and Accounting
-**Sources:**
-The Personal MBA (https://personalmba.com/) 
-Entire MBA in 1 Course (https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/)
-
-### Learning Progress ###
+### Coding Progress ###
 | Subject  | Purpose | URL  | Proficiency % |
 | ------------- | ------------- | ------------- | ------------- |
 | React  | Web Framework | https://reactjs.org/  | %25 |
@@ -37,3 +27,10 @@ Entire MBA in 1 Course (https://www.udemy.com/an-entire-mba-in-1-courseaward-win
 | React-Redux  | Flux State Management architecture | https://react-redux.js.org/  | %10 |
 | Thunk  | Action modification and ASYNC for Flux | https://github.com/reduxjs/redux-thunk  | %10 |
 | JSDoc  | JS project documentation | http://usejsdoc.org/  | %0 |
+
+### Supporting Skills ###
+| Subject  | Purpose | URL  | Proficiency % |
+| ------------- | ------------- | ------------- | ------------- |
+| UML and software diagramming  | Project management | https://www.tutorialspoint.com/uml/  | %0 |
+| The Personal MBA  | Business | https://personalmba.com/  | %0 |
+| Entire MBA in 1 Course  | Business | https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/  | Proficiency % |
